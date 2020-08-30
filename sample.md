@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-    <h1>
+<h1>
   The falsehoods of anti-AGPL propaganda
   
 </h1><p>Google is well-known for <a href="https://opensource.google/docs/using/agpl-policy/">forbidding the use of</a> software
